@@ -1,0 +1,6 @@
+node_modules
+dist
+.git
+.office-monitor.log
+.office-monitor.pid
+.DS_Store

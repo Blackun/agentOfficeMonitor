@@ -1,0 +1,9 @@
+{
+  "enableAntigravity": true,
+  "antigravityPath": "~/.gemini/antigravity/brain",
+  "enableClaude": true,
+  "claudePath": "~/.claude/projects",
+  "enableSimulation": true,
+  "idleLoungeMinutes": 2,
+  "activeWindowMinutes": 15
+}
